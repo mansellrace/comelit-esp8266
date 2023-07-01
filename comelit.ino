@@ -1,6 +1,6 @@
 #include <user_interface.h>
 
-const int MIO_INDIRIZZO = 16;
+const int MIO_INDIRIZZO = 1;
 const int MIA_SCALA = 1;
 long int durata_impulso = 1000;  // durata impulso in uscita quando si riceve una chiamata (ms)
 int BUS_RX = 12;                 // D6
